@@ -1,3 +1,10 @@
+Usage
+
+watch -n 1 mcurl localhost:3000/status
+node --max-old-space-size=10 index.js
+
+
+
 Getting started
 
 ```
